@@ -20,7 +20,7 @@ jobs:
 
     - name: Update README
       env:
-        WAKATIME_TOKEN: ${{ secrets.WAKATIME_USER }}
+        WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
       run: |-
         python -m wakatime > README.md
         cat README.md
