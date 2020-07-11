@@ -28,9 +28,11 @@ print(dedent(
     <table><tr><td valign="top">
 
     **Recent Languages:**
+
     <table>
     { ''.join(show_language(language) for language in languages) }
     </table>
+    <a href="https://github.com/anonguy/anonguy/actions"><img src="https://github.com/anonguy/anonguy/workflows/Build%20README/badge.svg" align="center" alt="Build README"></a>
     </td><td valign="top">
 
     <img src="https://wakatime.com/share/@Aperture/0cd21d5d-ac4f-458d-9c71-d06f479c1297.png" />
