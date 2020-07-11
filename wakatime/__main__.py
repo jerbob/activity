@@ -25,7 +25,7 @@ def make_row(language: dict) -> str:
 
 print(dedent(
     f"""
-    # Languages I use
+    # Languages
 
     <table>
           { ''.join(make_row(language) for language in languages) }
