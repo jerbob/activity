@@ -18,17 +18,21 @@ languages = sorted(
 )
 
 
-def make_row(language: dict) -> str:
+def show_language(language: dict) -> str:
     """Make a HTML table row for the provided language."""
-    return f"<tr><td>{ language['name'] }</td><td>{ language['text'] }</td></tr>"
+    return f"<tr><td>{ language['name'] }</td><td>{ language['digital'] }</td></tr>"
 
 
 print(dedent(
     f"""
-    # Languages
+    <table><tr><td valign="top">
 
     <table>
-          { ''.join(make_row(language) for language in languages) }
+    { ''.join(show_language(language) for language in languages) }
     </table>
+    </td><td valign="top">
+
+    <img src="https://wakatime.com/share/@Aperture/0cd21d5d-ac4f-458d-9c71-d06f479c1297.png" />
+    </td></tr></table>
     """
 ))
