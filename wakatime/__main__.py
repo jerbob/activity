@@ -2,6 +2,7 @@
 
 import json
 from urllib import request
+from textwrap import dedent
 
 from wakatime import USER
 
@@ -22,7 +23,7 @@ def make_row(language: dict) -> str:
     return f"<tr><td>{ language['name'] }</td><td>{ language['text'] }</td></tr>"
 
 
-print(
+print(dedent(
     f"""
     # Languages I use
 
@@ -30,4 +31,4 @@ print(
           { ''.join(make_row(language) for language in languages) }
     </table>
     """
-)
+))
