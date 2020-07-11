@@ -29,6 +29,6 @@ jobs:
       run: |-
         git diff
         git config --global user.email "wakatime@example.com"
-        git config --global user.name "Wakatime Update"
+        git config --global user.name "Wakatime"
         git commit -am "Updated content" || exit 0
         git push
