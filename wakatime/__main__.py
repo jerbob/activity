@@ -27,6 +27,7 @@ print(dedent(
     f"""
     <table><tr><td valign="top">
 
+    **Recent Languages:**
     <table>
     { ''.join(show_language(language) for language in languages) }
     </table>
