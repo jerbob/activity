@@ -25,16 +25,18 @@ def show_language(language: dict) -> str:
 
 print(dedent(
     f"""
-    <table><tr><td valign="top">
+    <table><tr>
+    <td valign="top">
+      <img src="https://wakatime.com/share/@{USER}/0cd21d5d-ac4f-458d-9c71-d06f479c1297.png" />
+    </td>
 
-    <a href="https://github.com/anonguy/anonguy/actions"><img src="https://github.com/anonguy/anonguy/workflows/Build%20README/badge.svg" align="center" alt="Build README"></a>
-
-    <table>
-    { ''.join(show_language(language) for language in languages) }
-    </table>
-    </td><td valign="top">
-
-    <img src="https://wakatime.com/share/@Aperture/0cd21d5d-ac4f-458d-9c71-d06f479c1297.png" />
-    </td></tr></table>
+    <td valign="top">
+      <hr>
+      <table>
+        { ''.join(show_language(language) for language in languages) }
+      </table>
+      <hr>
+    </td>
+    </tr></table>
     """
 ))
