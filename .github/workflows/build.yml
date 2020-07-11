@@ -28,7 +28,7 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
+        git config --global user.email "wakatime@example.com"
+        git config --global user.name "Wakatime Update"
         git commit -am "Updated content" || exit 0
         git push
