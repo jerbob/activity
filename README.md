@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>18:57</td></tr><tr><td>YAML</td><td>2:06</td></tr><tr><td>Other</td><td>1:16</td></tr><tr><td>Markdown</td><td>0:38</td></tr><tr><td>VimL</td><td>0:24</td></tr><tr><td>C#</td><td>0:22</td></tr><tr><td>Terraform</td><td>0:19</td></tr><tr><td>Text</td><td>0:17</td></tr><tr><td>Docker</td><td>0:16</td></tr><tr><td>HTML</td><td>0:16</td></tr><tr><td>JSON</td><td>0:10</td></tr><tr><td>Makefile</td><td>0:08</td></tr><tr><td>Image (jpeg)</td><td>0:08</td></tr><tr><td>Bash</td><td>0:01</td></tr><tr><td>Git</td><td>0:00</td></tr><tr><td>XML</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>18:32</td></tr><tr><td>YAML</td><td>3:42</td></tr><tr><td>Other</td><td>1:39</td></tr><tr><td>Markdown</td><td>0:36</td></tr><tr><td>HTML</td><td>0:23</td></tr><tr><td>Terraform</td><td>0:19</td></tr><tr><td>Text</td><td>0:17</td></tr><tr><td>Docker</td><td>0:16</td></tr><tr><td>VimL</td><td>0:15</td></tr><tr><td>JSON</td><td>0:10</td></tr><tr><td>Makefile</td><td>0:08</td></tr><tr><td>Image (jpeg)</td><td>0:08</td></tr><tr><td>Bash</td><td>0:01</td></tr><tr><td>Git</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
