@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>9:39</td></tr><tr><td>YAML</td><td>3:13</td></tr><tr><td>HTML</td><td>1:10</td></tr><tr><td>Other</td><td>0:52</td></tr><tr><td>Markdown</td><td>0:26</td></tr><tr><td>Docker</td><td>0:07</td></tr><tr><td>Text</td><td>0:07</td></tr><tr><td>JavaScript</td><td>0:07</td></tr><tr><td>Bash</td><td>0:03</td></tr><tr><td>JSON</td><td>0:00</td></tr><tr><td>Makefile</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>11:34</td></tr><tr><td>YAML</td><td>2:12</td></tr><tr><td>HTML</td><td>1:03</td></tr><tr><td>Other</td><td>0:38</td></tr><tr><td>JSON</td><td>0:28</td></tr><tr><td>CSV</td><td>0:28</td></tr><tr><td>Markdown</td><td>0:26</td></tr><tr><td>Text</td><td>0:11</td></tr><tr><td>Docker</td><td>0:07</td></tr><tr><td>JavaScript</td><td>0:07</td></tr><tr><td>Bash</td><td>0:03</td></tr><tr><td>Makefile</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
