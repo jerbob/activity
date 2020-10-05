@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>16:42</td></tr><tr><td>HTML</td><td>1:33</td></tr><tr><td>Other</td><td>1:33</td></tr><tr><td>YAML</td><td>1:08</td></tr><tr><td>Bash</td><td>0:59</td></tr><tr><td>Docker</td><td>0:29</td></tr><tr><td>Crontab</td><td>0:18</td></tr><tr><td>Text</td><td>0:14</td></tr><tr><td>JSON</td><td>0:09</td></tr><tr><td>Markdown</td><td>0:07</td></tr><tr><td>Git</td><td>0:03</td></tr><tr><td>VimL</td><td>0:03</td></tr><tr><td>JavaScript</td><td>0:02</td></tr><tr><td>CSV</td><td>0:01</td></tr><tr><td>Cheetah</td><td>0:00</td></tr><tr><td>INI</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>17:30</td></tr><tr><td>HTML</td><td>2:46</td></tr><tr><td>Other</td><td>1:38</td></tr><tr><td>YAML</td><td>1:10</td></tr><tr><td>Bash</td><td>0:42</td></tr><tr><td>Docker</td><td>0:29</td></tr><tr><td>Crontab</td><td>0:18</td></tr><tr><td>Text</td><td>0:14</td></tr><tr><td>Git</td><td>0:13</td></tr><tr><td>JSON</td><td>0:08</td></tr><tr><td>Markdown</td><td>0:07</td></tr><tr><td>VimL</td><td>0:03</td></tr><tr><td>JavaScript</td><td>0:02</td></tr><tr><td>CSV</td><td>0:00</td></tr><tr><td>Cheetah</td><td>0:00</td></tr><tr><td>INI</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
