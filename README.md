@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>9:56</td></tr><tr><td>HTML</td><td>5:02</td></tr><tr><td>Bash</td><td>4:48</td></tr><tr><td>Text</td><td>2:13</td></tr><tr><td>Other</td><td>1:52</td></tr><tr><td>JavaScript</td><td>0:39</td></tr><tr><td>YAML</td><td>0:38</td></tr><tr><td>JSON</td><td>0:20</td></tr><tr><td>Docker</td><td>0:19</td></tr><tr><td>Groff</td><td>0:07</td></tr><tr><td>Git Config</td><td>0:02</td></tr><tr><td>INI</td><td>0:01</td></tr><tr><td>Git</td><td>0:00</td></tr><tr><td>Markdown</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>11:16</td></tr><tr><td>HTML</td><td>5:14</td></tr><tr><td>Bash</td><td>4:30</td></tr><tr><td>Text</td><td>2:13</td></tr><tr><td>Other</td><td>2:02</td></tr><tr><td>Docker</td><td>1:02</td></tr><tr><td>YAML</td><td>0:55</td></tr><tr><td>JavaScript</td><td>0:43</td></tr><tr><td>JSON</td><td>0:28</td></tr><tr><td>Git Config</td><td>0:02</td></tr><tr><td>INI</td><td>0:01</td></tr><tr><td>Git</td><td>0:00</td></tr><tr><td>Markdown</td><td>0:00</td></tr><tr><td>CSV</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
