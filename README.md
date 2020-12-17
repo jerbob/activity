@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>9:57</td></tr><tr><td>Other</td><td>1:35</td></tr><tr><td>JSON</td><td>1:09</td></tr><tr><td>YAML</td><td>1:04</td></tr><tr><td>HTML</td><td>0:58</td></tr><tr><td>SCSS</td><td>0:27</td></tr><tr><td>VimL</td><td>0:22</td></tr><tr><td>Bash</td><td>0:22</td></tr><tr><td>Git</td><td>0:19</td></tr><tr><td>Java</td><td>0:19</td></tr><tr><td>Text</td><td>0:18</td></tr><tr><td>Docker</td><td>0:12</td></tr><tr><td>Terraform</td><td>0:09</td></tr><tr><td>CSV</td><td>0:06</td></tr><tr><td>Markdown</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>15:27</td></tr><tr><td>Other</td><td>1:40</td></tr><tr><td>YAML</td><td>1:17</td></tr><tr><td>JSON</td><td>1:09</td></tr><tr><td>HTML</td><td>1:04</td></tr><tr><td>Docker</td><td>0:40</td></tr><tr><td>SCSS</td><td>0:27</td></tr><tr><td>Bash</td><td>0:23</td></tr><tr><td>VimL</td><td>0:22</td></tr><tr><td>Git</td><td>0:19</td></tr><tr><td>Java</td><td>0:19</td></tr><tr><td>Text</td><td>0:18</td></tr><tr><td>Terraform</td><td>0:09</td></tr><tr><td>CSV</td><td>0:06</td></tr><tr><td>Markdown</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
