@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Other</td><td>9:12</td></tr><tr><td>Bash</td><td>1:03</td></tr><tr><td>Python</td><td>0:50</td></tr><tr><td>Text</td><td>0:23</td></tr><tr><td>HTML</td><td>0:05</td></tr><tr><td>JSON</td><td>0:03</td></tr><tr><td>Makefile</td><td>0:03</td></tr><tr><td>JavaScript</td><td>0:01</td></tr><tr><td>CSV</td><td>0:00</td></tr><tr><td>PacmanConf</td><td>0:00</td></tr>
+    <tr><td>Other</td><td>11:39</td></tr><tr><td>Bash</td><td>1:15</td></tr><tr><td>Python</td><td>1:01</td></tr><tr><td>Text</td><td>0:23</td></tr><tr><td>Terraform</td><td>0:15</td></tr><tr><td>YAML</td><td>0:14</td></tr><tr><td>Markdown</td><td>0:04</td></tr><tr><td>Makefile</td><td>0:04</td></tr><tr><td>JSON</td><td>0:03</td></tr><tr><td>Git Config</td><td>0:02</td></tr><tr><td>HTML</td><td>0:01</td></tr><tr><td>JavaScript</td><td>0:01</td></tr><tr><td>reStructuredText</td><td>0:00</td></tr><tr><td>INI</td><td>0:00</td></tr><tr><td>PacmanConf</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
