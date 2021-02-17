@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>3:44</td></tr><tr><td>YAML</td><td>0:51</td></tr><tr><td>HTML</td><td>0:24</td></tr><tr><td>Other</td><td>0:06</td></tr><tr><td>CSV</td><td>0:02</td></tr><tr><td>C</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>1:34</td></tr><tr><td>YAML</td><td>0:47</td></tr><tr><td>HTML</td><td>0:22</td></tr><tr><td>C</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
