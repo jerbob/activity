@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Bash</td><td>4:30</td></tr><tr><td>Python</td><td>4:08</td></tr><tr><td>HTML</td><td>1:15</td></tr><tr><td>JavaScript</td><td>0:28</td></tr><tr><td>CSS</td><td>0:20</td></tr><tr><td>Go</td><td>0:18</td></tr><tr><td>Other</td><td>0:17</td></tr><tr><td>YAML</td><td>0:17</td></tr><tr><td>JSON</td><td>0:11</td></tr><tr><td>Docker</td><td>0:02</td></tr><tr><td>Git</td><td>0:00</td></tr><tr><td>Markdown</td><td>0:00</td></tr><tr><td>Text</td><td>0:00</td></tr>
+    <tr><td>Python</td><td>6:53</td></tr><tr><td>Bash</td><td>4:30</td></tr><tr><td>HTML</td><td>2:32</td></tr><tr><td>CSS</td><td>1:18</td></tr><tr><td>JavaScript</td><td>1:18</td></tr><tr><td>YAML</td><td>0:21</td></tr><tr><td>Other</td><td>0:18</td></tr><tr><td>Go</td><td>0:18</td></tr><tr><td>JSON</td><td>0:15</td></tr><tr><td>Docker</td><td>0:02</td></tr><tr><td>Git</td><td>0:00</td></tr><tr><td>Markdown</td><td>0:00</td></tr><tr><td>Text</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
