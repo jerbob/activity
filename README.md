@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Other</td><td>11:17</td></tr><tr><td>Python</td><td>2:55</td></tr><tr><td>Bash</td><td>1:06</td></tr><tr><td>YAML</td><td>0:47</td></tr><tr><td>CSV</td><td>0:27</td></tr><tr><td>HTML</td><td>0:24</td></tr><tr><td>JavaScript</td><td>0:23</td></tr><tr><td>Text</td><td>0:14</td></tr><tr><td>JSON</td><td>0:11</td></tr><tr><td>CSS</td><td>0:02</td></tr>
+    <tr><td>Other</td><td>13:12</td></tr><tr><td>Python</td><td>2:21</td></tr><tr><td>HTML</td><td>0:24</td></tr><tr><td>JavaScript</td><td>0:23</td></tr><tr><td>CSV</td><td>0:18</td></tr><tr><td>Bash</td><td>0:18</td></tr><tr><td>JSON</td><td>0:15</td></tr><tr><td>Text</td><td>0:14</td></tr><tr><td>Markdown</td><td>0:11</td></tr><tr><td>YAML</td><td>0:07</td></tr><tr><td>INI</td><td>0:03</td></tr><tr><td>Makefile</td><td>0:03</td></tr><tr><td>CSS</td><td>0:02</td></tr><tr><td>Git</td><td>0:00</td></tr>
   </table>
   <hr>
 </td>
