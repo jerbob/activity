@@ -7,7 +7,7 @@
 <td valign="top">
   <hr>
   <table>
-    <tr><td>Python</td><td>1:28</td></tr><tr><td>Other</td><td>0:15</td></tr><tr><td>YAML</td><td>0:08</td></tr><tr><td>VimL</td><td>0:00</td></tr>
+
   </table>
   <hr>
 </td>
